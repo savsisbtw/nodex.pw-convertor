@@ -1,7 +1,7 @@
 # nodex.pw converter
 
 
-![license](https://img.shields.io/github/license/devsavsis/nodex.pw-convertor)
+![license](https://img.shields.io/github/license/savsisbtw/nodex.pw-convertor)
 конвертирует всё что возможно — картинки, видео, аудио, архивы  
 веб интерфейс, drag and drop, ctrl v, автоопределение форматов
 
